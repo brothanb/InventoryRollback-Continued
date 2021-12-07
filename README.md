@@ -5,9 +5,9 @@ Danjono, the plugin's original dev, seems to have disappeared off the face of th
 [![License](https://img.shields.io/github/license/Sidpatchy/Inventory-Rollback?style=flat-square)](https://github.com/Sidpatchy/Inventory-Rollback/blob/master/LICENSE)
 
 # 1.18 Support
-Experimental builds supporting 1.18 can be found on my Jenkins: https://ci.sidpatchy.com/job/InventoryRollback-Continued/
+Inventory Rollback: Continued fully supports Minecraft 1.8.8 through 1.18.
 
-The experimental builds require NBTAPI v2.9.0+: https://www.spigotmc.org/resources/nbt-api.7939/
+Versions 2.5.3 and above require NBTAPI v2.9.0 or greater: https://www.spigotmc.org/resources/nbt-api.7939/
 
 ![](https://i.imgur.com/IZvmEY8.png)
 # Inventory Rollback
