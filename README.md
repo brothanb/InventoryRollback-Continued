@@ -7,7 +7,7 @@ Danjono, the plugin's original dev, seems to have disappeared off the face of th
 # 1.18 Support
 Inventory Rollback: Continued fully supports Minecraft 1.8.8 through 1.18.
 
-Versions 2.5.3 and above require NBTAPI v2.9.0 or greater: https://www.spigotmc.org/resources/nbt-api.7939/
+Versions 1.5.3 and above require NBTAPI v2.9.0 or greater: https://www.spigotmc.org/resources/nbt-api.7939/
 
 ![](https://i.imgur.com/IZvmEY8.png)
 # Inventory Rollback
