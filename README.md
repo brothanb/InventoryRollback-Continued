@@ -1,7 +1,7 @@
 # Why does this fork exist?
 Danjono, the plugin's original dev, seems to have disappeared off the face of the earth. I intend to maintain this fork in their absence. I will be manually merging pull requests (which I believe are of benefit to the plugin) from the original repo.
 
-[![Build Status](https://ci.sidpatchy.com/buildStatus/icon?job=InventoryRollback-Continued&style=flat-square)](https://ci.sidpatchy.com/job/InventoryRollback-Continued/)
+[![Build Status](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fci.sidpatchy.com%2Fjob%2FInventoryRollback-Continued%2F&style=flat-square)](https://ci.sidpatchy.com/job/InventoryRollback-Continued/)
 [![License](https://img.shields.io/github/license/Sidpatchy/Inventory-Rollback?style=flat-square)](https://github.com/Sidpatchy/Inventory-Rollback/blob/master/LICENSE)
 
 # 1.18 Support
