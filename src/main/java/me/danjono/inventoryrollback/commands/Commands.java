@@ -7,6 +7,7 @@ import me.danjono.inventoryrollback.data.LogType;
 import me.danjono.inventoryrollback.gui.MainMenu;
 import me.danjono.inventoryrollback.inventory.SaveInventory;
 import org.bukkit.Bukkit;
+import org.bukkit.ChatColor;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -119,7 +120,12 @@ public class Commands extends ConfigFile implements CommandExecutor {
                     }
                     case "info": {
                         //Give version information
-                        sender.sendMessage(MessageData.pluginName + "Server is running v" + InventoryRollback.getPluginVersion() + " - Created by danjono.");
+                        //sender.sendMessage(MessageData.pluginName + "Server is running v" + InventoryRollback.getPluginVersion() + " - Created by danjono.");
+                        sender.sendMessage(ChatColor.WHITE + "----------- " + ChatColor.AQUA + ChatColor.BOLD + "Inventory Rollback Continued" + ChatColor.WHITE + " -----------");
+                        sender.sendMessage(ChatColor.AQUA + "Version: " + ChatColor.WHITE + InventoryRollback.getPluginVersion());
+                        sender.sendMessage(ChatColor.AQUA + "Original Author: " + ChatColor.WHITE + "danjono");
+                        sender.sendMessage(ChatColor.AQUA + "Fork Author: " + ChatColor.WHITE + "Sidpatchy");
+                        sender.sendMessage(ChatColor.AQUA + "GitHub: " + ChatColor.WHITE + "https://github.com/Sidpatchy/InventoryRollback-Continued");
                     }
                 }
             }

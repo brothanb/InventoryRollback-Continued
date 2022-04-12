@@ -28,7 +28,7 @@ By default, it will log 50 deaths and 10 joins, disconnects, world changes, and 
 * [Spigot](https://www.spigotmc.org/resources/inventory-rollback-continued.93436/)
 * [CurseForge](https://dev.bukkit.org/projects/inventory-rollback-continued)
 * [GitHub](https://github.com/Sidpatchy/InventoryRollback-Continued/releases)
-* [Jenkins (Development Builds)](https://ci.sidpatchy.com/)
+* [Jenkins (Development Builds)](https://ci.sidpatchy.com/job/InventoryRollback-Continued/)
 
 ## Commands
 | Command Usage              | Description                                       | Permission                      |

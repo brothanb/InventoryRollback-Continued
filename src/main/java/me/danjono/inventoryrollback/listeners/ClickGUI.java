@@ -80,6 +80,7 @@ public class ClickGUI extends Buttons implements Listener {
 
         //Listener for rollback list menu
         else if (title.equals(InventoryName.ROLLBACK_LIST.getName())) {
+            if (icon == null) { return; }
             rollbackMenu(e);
         }
 
